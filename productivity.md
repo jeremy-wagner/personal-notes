@@ -24,3 +24,4 @@
 
 
 # Other Productivity Tips
+- “If I have a call or another meeting, I’ll just block it out if I’m in the zone,” he told Fast Company. “That’s unorthodox because it means that you’re breaking social contracts, you’re disappointing someone because you didn’t show up. But if you’re really, really focused, those are the times when the breakthroughs come.” - Daniel Elk
