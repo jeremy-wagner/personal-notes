@@ -24,5 +24,7 @@
 
 
 # Other Productivity Tips
-- “If I have a call or another meeting, I’ll just block it out if I’m in the zone,” he told Fast Company. “That’s unorthodox because it means that you’re breaking social contracts, you’re disappointing someone because you didn’t show up. But if you’re really, really focused, those are the times when the breakthroughs come.” - Daniel Elk
+- > “If I have a call or another meeting, I’ll just block it out if I’m in the zone,” he told Fast Company. “That’s unorthodox because it means that you’re breaking social contracts, you’re disappointing someone because you didn’t show up. But if you’re really, really focused, those are the times when the breakthroughs come.” - Daniel Elk
 - Ek also has a habit of writing out his daily, weekly, and monthly goals and tracking their progress every evening. From there, he’ll allocate time accordingly to each goal. - Daniel Elk
+-“I go full screen on nearly every app. I also hide my dock. I don’t want anything pulling my attention away,” Fried told Lifehacker. “When I’m curious I’ll look. Otherwise, I’m looking at what I want, not what someone else might want me to see.” - Jason Fried
+- Even though Basecamp is a project management tool, Fried doesn’t like to use a to-do list manager, “I don’t track to-dos. I have a small handful of things I know I need to do every day. If I can’t keep them in my head, I have too many things to do. Every day is a blank slate for what I need to do.” - Jason Fried
