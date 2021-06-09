@@ -1,5 +1,5 @@
 # Daily Routines
-- [Daniel Ek](https://www.balancethegrind.com.au/daily-routines/daniel-ek-daily-routine/)
+- [Daniel Ek](https://www.balancethegrind.com.au/daily-routines/daniel-ek-daily-routine/) So, this will sound incredibly lazy compared to some leaders. I wake up at around 6:30 in the morning and spend some time with my kids and wife. At 7:30, I go work out. At 8:30, I go for a walk – even in the winter. I’ve found this is often where I do my best thinking. At 9:30, I read for thirty minutes to an hour. Sometimes I read the news, but you’ll also find an ever-rotating stack of books in my office, next to my bed, on tables around the house. Books on history, leadership, biographies. It’s a pretty eclectic mix – much like my taste in music. Finally, my “work” day really starts at 10:30.
 - [Elon Musk](https://www.balancethegrind.com.au/daily-routines/elon-musk-daily-routine/)
 - [Jason Fried](https://www.balancethegrind.com.au/daily-routines/jason-fried-daily-routine/)
 - [Jack Dorsey](https://www.forbes.com/sites/kevinkruse/2015/10/12/jack-dorsey-productivity-secret/?sh=5b1824c7136a)
