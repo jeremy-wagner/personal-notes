@@ -13,6 +13,12 @@
 - **Pick one day a week to be Administration Day** This is the day to fill out expense reports, complete performance reviews, read committee reports, catch up on old emails, and to schedule any random meetings that aren’t directly related to your key objectives.
 - **Pick one day a week to focus on your customers (whether internal or external)** Common advice from successful CEOs is to get out of the office. Make some phone calls, take your top customers to lunch, and listen to the feedback they’re giving you.
 
+# Jack Dorsey Daily Themes
+- **Monday** - Monday is management. At Square we have a directional meeting, at Twitter we have our opcomm [operating committee] meeting.
+- **Tuesday** - Tuesday is product, engineering, and design.
+- **Wednesday** -  Wednesday is marketing, growth, and communications.
+- **Thursday** - Thursday is partnership and developers.
+- **Friday** - Friday is company and culture.
 
 # Daily Themes
 
