@@ -25,6 +25,7 @@
 
 # Other Productivity Tips
 - > “If I have a call or another meeting, I’ll just block it out if I’m in the zone,” he told Fast Company. “That’s unorthodox because it means that you’re breaking social contracts, you’re disappointing someone because you didn’t show up. But if you’re really, really focused, those are the times when the breakthroughs come.” - Daniel Elk
-- Ek also has a habit of writing out his daily, weekly, and monthly goals and tracking their progress every evening. From there, he’ll allocate time accordingly to each goal. - Daniel Elk
--“I go full screen on nearly every app. I also hide my dock. I don’t want anything pulling my attention away,” Fried told Lifehacker. “When I’m curious I’ll look. Otherwise, I’m looking at what I want, not what someone else might want me to see.” - Jason Fried
-- Even though Basecamp is a project management tool, Fried doesn’t like to use a to-do list manager, “I don’t track to-dos. I have a small handful of things I know I need to do every day. If I can’t keep them in my head, I have too many things to do. Every day is a blank slate for what I need to do.” - Jason Fried
+- > Ek also has a habit of writing out his daily, weekly, and monthly goals and tracking their progress every evening. From there, he’ll allocate time accordingly to each goal. - Daniel Elk
+- > “I go full screen on nearly every app. I also hide my dock. I don’t want anything pulling my attention away,” Fried told Lifehacker. “When I’m curious I’ll look. Otherwise, I’m looking at what I want, not what someone else might want me to see.” - Jason Fried
+- > Even though Basecamp is a project management tool, Fried doesn’t like to use a to-do list manager, “I don’t track to-dos. I have a small handful of things I know I need to do every day. If I can’t keep them in my head, I have too many things to do. Every day is a blank slate for what I need to do.” - Jason Fried
+- > I work about 40 hours a week, and I strongly encourage everyone at Basecamp to do the same. Forty hours is enough when you actually have 40 hours to use for your work, versus showing up for 40 or 50 or 60+ but only having 15 or 20 to yourself. - Jason Fried
